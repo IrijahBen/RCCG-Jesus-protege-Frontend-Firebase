@@ -46,10 +46,10 @@ import { getAnalytics } from "firebase/analytics";
 
 // Your brand new Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyAeaKsw8Fli9zwLB92jfzrrnzsPj70iBQQ",
+    apiKey: "your firebase api generated key",
     authDomain: "rccg-jesus-protege.firebaseapp.com",
     projectId: "rccg-jesus-protege",
-    storageBucket: "rccg-jesus-protege.firebasestorage.app",
+    storageBucket: "",
     messagingSenderId: "1009940906197",
     appId: "1:1009940906197:web:c4ab9f38e2e3e59d0a225c",
     measurementId: "G-ZPMD6943J3"
